@@ -3,8 +3,8 @@
     "static/js/0.fe1293ff.chunk.js": "/~jfalkinburg/husker-scope/app/static/js/0.fe1293ff.chunk.js",
     "static/js/0.fe1293ff.chunk.js.map": "/~jfalkinburg/husker-scope/app/static/js/0.fe1293ff.chunk.js.map",
     "main.css": "/~jfalkinburg/husker-scope/app/static/css/main.3ee0ba27.chunk.css",
-    "main.js": "/~jfalkinburg/husker-scope/app/static/js/main.54b8f9a8.chunk.js",
-    "main.js.map": "/~jfalkinburg/husker-scope/app/static/js/main.54b8f9a8.chunk.js.map",
+    "main.js": "/~jfalkinburg/husker-scope/app/static/js/main.382b0c05.chunk.js",
+    "main.js.map": "/~jfalkinburg/husker-scope/app/static/js/main.382b0c05.chunk.js.map",
     "polyfills-dom.js": "/~jfalkinburg/husker-scope/app/static/js/polyfills-dom.f387a54e.chunk.js",
     "polyfills-dom.js.map": "/~jfalkinburg/husker-scope/app/static/js/polyfills-dom.f387a54e.chunk.js.map",
     "runtime-main.js": "/~jfalkinburg/husker-scope/app/static/js/runtime-main.1a69ef5e.js",
@@ -134,6 +134,6 @@
     "static/css/4.532f36fa.chunk.css",
     "static/js/4.136c8061.chunk.js",
     "static/css/main.3ee0ba27.chunk.css",
-    "static/js/main.54b8f9a8.chunk.js"
+    "static/js/main.382b0c05.chunk.js"
   ]
 }
