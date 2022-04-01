@@ -311,6 +311,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <ul><li class="first expanded"><a href="https://cse.unl.edu/~jfalkinburg/husker-scope/" title="About Husker Scope">Husker Scope</a><ul>
 <li class="first leaf"><a href="https://cse.unl.edu/~jfalkinburg/">About Prof Falkinburg</a></li>
 <li class="leaf"><a href="https://cse.unl.edu/~jfalkinburg/husker-scope/#team">The Development Team</a></li>
+<li class="leaf"><a href="https://cse.unl.edu/~jfalkinburg/husker-scope/#hardware">Husker Scope Hardware</a></li>
 <li class="last leaf"><a href="https://cse.unl.edu/senior-design">Other Senior Design Projects</a></li>
 </ul>
 </li>
@@ -467,6 +468,19 @@ version available for students to use in the spring 2022.
 <iframe width="320" height="200" src="https://www.youtube.com/embed/D_rUIhlhcLg" frameborder="0" allowfullscreen></iframe>
 <iframe width="320" height="200" src="https://www.youtube.com/embed/YyWRcAAw77E" frameborder="0" allowfullscreen></iframe>
 </div>
+<div id="Husker Scope Interface Hardware">
+<a name="hardware"><h2 class="sec_header">Husker Scope Interface Hardware</h2></a>
+<p>In order to get the mobile and web apps to allow an external microphone input we had to build small hardware interface. The 
+breakout board takes the left and right channel outputs from the function generator and allows you to select which is sent 
+to the microphone input of the oscilloscope.  We found that iPhones require a 10K&#x2126 resistor in series in order to recognize 
+the microphone input.  We added a 2K&#x2126 resistor to divide the input voltage as a microphone circuit protection.   
+<center><figure class="frame clear-top"style="width:60%"><img src="https://cse.unl.edu/~jfalkinburg/husker-scope/img/Husker_Scope_hardware_design.png" alt="Husker Scope hardware interface design" class="framed" /> <figcaption><center>Husker Scope breakout board interface design</center></figcaption></figure></center>
+We then prototyped a breakout board for the students to use in class.
+<center><figure class="frame clear-top"style="width:30%"><img src="https://cse.unl.edu/~jfalkinburg/husker-scope/img/Husker_Scope_Board.jpg" alt="Husker Scope Breakout Board" class="framed" /> <figcaption><center>Final version of the Husker Scope breakout board</center></figcaption></figure></center>
+<!-- <figure class="frame clear-top"style="width:100%"><img src="https://cse.unl.edu/~jfalkinburg/husker-scope/img/Husker_Scope_hardware_design.png" width="200" alt="Husker Scope hardware interface design" class="framed" /> <figcaption><center>Husker Scope breakout board interface design</center></figcaption></figure> -->
+<!-- <figure class="frame clear-top"style="width:20%"><img src="https://cse.unl.edu/~jfalkinburg/husker-scope/img/Husker_Scope_Board.jpg" width="100" alt="Husker Scope Breakout Board" class="framed" /> <figcaption><center>Final version of the Husker Scope breakout board</center></figcaption></figure> -->
+</p>
+</div> <!-- end #Husker Scope Interface Hardware -->
 
 <div id="Senior Design Development Team">
 <a name="team"><h2 class="sec_header">Senior Design Development Team</h2></a>
@@ -480,7 +494,7 @@ version available for students to use in the spring 2022.
 	</ul>  
 </div> <!-- end #Senior Design Development Team -->
 
-</div><!-- end wdn-col-three-fourths -->
+</div><!-- end wdn-col-two-thirds -->
 
 <div class="wdn-col-one-third" style="margin-top: 5em;">
 <figure class="frame clear-top"><img src="https://cse.unl.edu/~jfalkinburg/husker-scope/img/Husker_Scope_App.png" alt="Husker Scope Application" class="framed" /> <figcaption><center>Notional Vision of Husker Scope App</center></figcaption></figure>
@@ -512,7 +526,7 @@ version available for students to use in the spring 2022.
                   </p>
 </div><!--end #myContactInfo -->
 
-</div><!-- end wdn-col-one-fourth -->
+</div><!-- end wdn-col-one-third -->
 
 </div><!--end wdn-col-full -->
 </div></div></div>  </div>
