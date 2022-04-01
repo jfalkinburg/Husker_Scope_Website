@@ -1,8 +1,8 @@
 # Husker Scope Website
 
-Live site direct link: https://cse.unl.edu/~jfalkinburg/husker-scope/
-Live site domain: https://www.huskerscope.com/
-Husker Scope Web App Link: https://www.huskerscope.com/app
+- Live site direct link: https://cse.unl.edu/~jfalkinburg/husker-scope/
+- Live site domain: https://www.huskerscope.com/
+- Husker Scope Web App Link: https://www.huskerscope.com/app
 
 
 Build Command: 
