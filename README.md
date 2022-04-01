@@ -10,4 +10,4 @@ Build Command:
 ionic build --prod --public-url=/~jfalkinburg/husker-scope/app/
 ```
 ![Husker Scope Feature Graphic](img/Feature_Graphic.png)
-##### Figure 1: Husker Scope Feature Graphic)
+##### Figure 1: Husker Scope Feature Graphic
