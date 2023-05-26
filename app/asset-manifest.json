@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/~jfalkinburg/husker-scope/app/static/css/main.627686c3.css",
-    "main.js": "/~jfalkinburg/husker-scope/app/static/js/main.5baace3a.js",
+    "main.css": "/~jfalkinburg/husker-scope/app/static/css/main.72acd5a6.css",
+    "main.js": "/~jfalkinburg/husker-scope/app/static/js/main.5b1c3320.js",
     "static/js/738.dd1734cd.chunk.js": "/~jfalkinburg/husker-scope/app/static/js/738.dd1734cd.chunk.js",
     "static/js/7372.ebf4f471.chunk.js": "/~jfalkinburg/husker-scope/app/static/js/7372.ebf4f471.chunk.js",
     "static/js/5856.773a8f94.chunk.js": "/~jfalkinburg/husker-scope/app/static/js/5856.773a8f94.chunk.js",
@@ -87,8 +87,8 @@
     "static/js/8961.812f48bf.chunk.js": "/~jfalkinburg/husker-scope/app/static/js/8961.812f48bf.chunk.js",
     "service-worker.js": "/~jfalkinburg/husker-scope/app/service-worker.js",
     "index.html": "/~jfalkinburg/husker-scope/app/index.html",
-    "main.627686c3.css.map": "/~jfalkinburg/husker-scope/app/static/css/main.627686c3.css.map",
-    "main.5baace3a.js.map": "/~jfalkinburg/husker-scope/app/static/js/main.5baace3a.js.map",
+    "main.72acd5a6.css.map": "/~jfalkinburg/husker-scope/app/static/css/main.72acd5a6.css.map",
+    "main.5b1c3320.js.map": "/~jfalkinburg/husker-scope/app/static/js/main.5b1c3320.js.map",
     "738.dd1734cd.chunk.js.map": "/~jfalkinburg/husker-scope/app/static/js/738.dd1734cd.chunk.js.map",
     "7372.ebf4f471.chunk.js.map": "/~jfalkinburg/husker-scope/app/static/js/7372.ebf4f471.chunk.js.map",
     "5856.773a8f94.chunk.js.map": "/~jfalkinburg/husker-scope/app/static/js/5856.773a8f94.chunk.js.map",
@@ -174,7 +174,7 @@
     "8961.812f48bf.chunk.js.map": "/~jfalkinburg/husker-scope/app/static/js/8961.812f48bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.627686c3.css",
-    "static/js/main.5baace3a.js"
+    "static/css/main.72acd5a6.css",
+    "static/js/main.5b1c3320.js"
   ]
 }
