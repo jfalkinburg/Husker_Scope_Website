@@ -5,3 +5,6 @@ RewriteRule ^app/.+ app/ [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^devApp/.+ devApp/ [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^devapp/.+ devApp/ [L]
