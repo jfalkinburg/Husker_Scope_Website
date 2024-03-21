@@ -4,4 +4,4 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^app/.+ app/ [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^devapp/(.+) devApp/$1 [L,R=301]
+RewriteRule ^devapp/.+ devApp/ [L]
