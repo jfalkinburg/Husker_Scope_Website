@@ -1,3 +1,0 @@
-/*! For license information please see 6643.17fc385b.chunk.js.LICENSE.txt */
-"use strict";(self.webpackChunkhusker_scope=self.webpackChunkhusker_scope||[]).push([[6643],{6643:(e,n,i)=>{i.r(n),i.d(n,{c:()=>r});var o=i(513),r=function(e){var n,i,r,t=function(){n=function(){r=!0,e&&e(!0)},i=function(){r=!1,e&&e(!1)},null===o.w||void 0===o.w||o.w.addEventListener("keyboardWillShow",n),null===o.w||void 0===o.w||o.w.addEventListener("keyboardWillHide",i)};return t(),{init:t,destroy:function(){null===o.w||void 0===o.w||o.w.removeEventListener("keyboardWillShow",n),null===o.w||void 0===o.w||o.w.removeEventListener("keyboardWillHide",i),n=i=void 0},isKeyboardVisible:function(){return r}}}}}]);
-//# sourceMappingURL=6643.17fc385b.chunk.js.map

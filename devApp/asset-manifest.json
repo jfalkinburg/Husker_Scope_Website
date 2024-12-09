@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/~jfalkinburg/husker-scope/devApp/static/css/main.11d26775.css",
-    "main.js": "/~jfalkinburg/husker-scope/devApp/static/js/main.c0d210f4.js",
+    "main.js": "/~jfalkinburg/husker-scope/devApp/static/js/main.c239e890.js",
     "static/js/738.5e813770.chunk.js": "/~jfalkinburg/husker-scope/devApp/static/js/738.5e813770.chunk.js",
     "static/js/7372.ed5ce827.chunk.js": "/~jfalkinburg/husker-scope/devApp/static/js/7372.ed5ce827.chunk.js",
     "static/js/5856.0ccada5e.chunk.js": "/~jfalkinburg/husker-scope/devApp/static/js/5856.0ccada5e.chunk.js",
@@ -88,7 +88,7 @@
     "service-worker.js": "/~jfalkinburg/husker-scope/devApp/service-worker.js",
     "index.html": "/~jfalkinburg/husker-scope/devApp/index.html",
     "main.11d26775.css.map": "/~jfalkinburg/husker-scope/devApp/static/css/main.11d26775.css.map",
-    "main.c0d210f4.js.map": "/~jfalkinburg/husker-scope/devApp/static/js/main.c0d210f4.js.map",
+    "main.c239e890.js.map": "/~jfalkinburg/husker-scope/devApp/static/js/main.c239e890.js.map",
     "738.5e813770.chunk.js.map": "/~jfalkinburg/husker-scope/devApp/static/js/738.5e813770.chunk.js.map",
     "7372.ed5ce827.chunk.js.map": "/~jfalkinburg/husker-scope/devApp/static/js/7372.ed5ce827.chunk.js.map",
     "5856.0ccada5e.chunk.js.map": "/~jfalkinburg/husker-scope/devApp/static/js/5856.0ccada5e.chunk.js.map",
@@ -175,6 +175,6 @@
   },
   "entrypoints": [
     "static/css/main.11d26775.css",
-    "static/js/main.c0d210f4.js"
+    "static/js/main.c239e890.js"
   ]
 }
